@@ -1,0 +1,21 @@
+.top{
+    background-color: lightgreen;
+    text-align: center;
+}
+
+.ingredients{
+    background-color: lightgreen;
+    padding-bottom: 24px;
+
+}
+
+.steps{
+    background-color: lightgreen;
+    padding-bottom: 24px;
+
+}
+
+body {
+    padding: 24px;
+    margin: 24px;
+}
