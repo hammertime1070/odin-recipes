@@ -1,3 +1,3 @@
 ### Odin-Recipes
 
-I will complete this readme file once the project is complete to review what I have learned in the completion of this project.
+I will update this to look more diligent if I am every actually applying for a programming job.
